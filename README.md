@@ -20,7 +20,7 @@ See the subject for further details !
 
 1st semester Elementary programming in C (part I) unit
 
-Grade : B | Mark : 2
+Grade : B | Mark : 5
 
 Score : 9.3%
 
