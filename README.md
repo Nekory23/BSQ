@@ -1,6 +1,5 @@
 # BSQ
-
-{EPITECH} | First year | Elementary programming in C project
+# {EPITECH} | First year | Elementary programming in C project
 
 You must find the largest possible square on a board while avoiding obstacles.
 The board is represented by a file passed as the program’s argument. 
@@ -18,20 +17,21 @@ See the subject for further details !
 
 ========================
 
-1st semester Elementary programming in C (part I) unit
+## 1st semester Elementary programming in C (part I) unit
 
 Grade : B | Mark : 5
 
-Score : 9.3%
-
-  - 97x21 rectangle : 0% --- 0/5
-  - 1x1 intermidiate : 0% --- 0/2
-  - line - intermidiate : 0% --- 0/5
-  - column - intermidiate : 0% --- 0/5
-  - 34x137 rectangle - intermediate : 0% --- 0/5
-  - Square 187x187 - intermediate : 0% --- 0/5
-  - Special cases - intermediate : 0% --- 0/5
-  - Big maps - intermidiate : 0% --- 0/10
-  - Error handling : 100% --- 4/4
+| Category                        | Percentage | Tests    | Crash ? |
+|---------------------------------|------------|----------|---------|
+| 97x21 rectangle                 | 0%         | 0/5      | x       |
+| 1x1 intermediate                | 0%         | 0/2      | x       |
+| Line - intermediate             | 0%         | 0/5      | x       |
+| Column - intermidiate           | 0%         | 0/5      | x       |
+| 37x137 rectangle - intermediate | 0%         | 0/5      | x       |
+| Square 187x187 - intermediate   | 0%         | 0/5      | x       |
+| Special cases - intermediate    | 0%         | 0/5      | x       |
+| Big maps                        | 0%         | 0/10     | x       |
+| Error handling                  | 100%       | 4/4      | x       |
+| **End scores**                  | **9.3%**   | **4/46** | **No**  |
 
 Beware of -42 Epitech students !!!
